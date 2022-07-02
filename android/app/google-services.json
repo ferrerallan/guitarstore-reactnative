@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799724652686",
+    "project_id": "guitarstore-fbdf9",
+    "storage_bucket": "guitarstore-fbdf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799724652686:android:2670a9bb62e1014eb421df",
+        "android_client_info": {
+          "package_name": "com.guitarStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799724652686-qfbas2kv9rt8jmbus687jds8ndtfba1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4kXMFUj4uKaNdstXKrPWs8K_hRuOt2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799724652686-qfbas2kv9rt8jmbus687jds8ndtfba1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
